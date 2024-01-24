@@ -1,3 +1,8 @@
+# yarn
+yarn install
+
+# npm
 npm install
 
-npm run dev
+# pnpm
+pnpm install
